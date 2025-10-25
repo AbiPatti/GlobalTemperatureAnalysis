@@ -1,5 +1,10 @@
-# Ignore data files
-data/*.csv
+# Dataset files
+data/GlobalLandTemperatures.csv
+data/GlobalLandTemperaturesByCity.csv
+data/GlobalLandTemperaturesByCountry.csv
+data/GlobalLandTemperaturesByState.csv
+data/GlobalLandTemperaturesByMajorCity.csv
+data/GlobalTemperatures.csv
 
 # Jupyter
 .ipynb_checkpoints/
