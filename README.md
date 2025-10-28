@@ -11,4 +11,4 @@ Exploratory data analysis (EDA) of global temperature trends using the [Berkeley
 
 ## Installation
 
-Download the dataset from [https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data/data] and add the CSVs to the `data/` folder.
+Download the dataset from [Kaggle](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data/data) and add the CSVs to the `data/` folder.
